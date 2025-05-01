@@ -2,8 +2,8 @@
 
 ###  DATE: 19.04.25
 
-###  NAME: AANKARSH J
-###  ROLL NO : 212223233001
+###  NAME: DEEPIKA.R
+###  ROLL NO : 212224100009
 ###  DEPARTMENT: AIDS(IOT)
 ### Aim:
 To Interface a IR Sensor to digital port of iot development board  and generate an interrupt and visualize on the serial monitor 
